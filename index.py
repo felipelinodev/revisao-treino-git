@@ -4,7 +4,7 @@ def calcular_quadrado(n = 0, lista = []):
         lista_quadrado = []
         for e in lista:
             lista_quadrado.append(e*e)
-        return lista_quadrado
+        return lista_quadra##
     return n*n
 
 #Algoritmo_ordenação
