@@ -11,3 +11,4 @@ def calcular_quadrado(n = 0, lista = []):
 def lista_ordenacao(arr):
     lista_ordenada = sorted(arr)
     return lista_ordenada
+#coment
