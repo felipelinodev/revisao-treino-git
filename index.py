@@ -16,6 +16,3 @@ def calcular_quadrado(n=0, lista = [], order=False):
             return lista_quadrado
     else:
         return n*n
-
-
-print(calcular_quadrado(lista = [3, 33, 5, 1, 4], order=True))
